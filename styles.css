@@ -92,7 +92,7 @@ body {
   font-weight: 700;
 }
 .inactive {
-  color: azure;
+  color: #9dffad;
   border: 2px solid white !important;
 }
 
