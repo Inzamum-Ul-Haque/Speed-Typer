@@ -160,6 +160,7 @@ button {
   align-items: center;
   padding: 20px 30px;
   color: white;
+  line-height: 25px;
   border-radius: 15px;
   background: rgb(255, 255, 255);
   background: linear-gradient(
