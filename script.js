@@ -102,6 +102,7 @@ const gameOver = () => {
 const closeModal = () => {
   modalBackground.classList.toggle("hidden");
   resultModal.classList.toggle("hidden");
+  // reload added for some bugs
   location.reload();
 };
 
